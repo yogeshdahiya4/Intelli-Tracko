@@ -1,0 +1,63 @@
+
+  body{
+    background-color: #EAF6F6;
+    text-align: center;
+    font-family: 'Nova Script', cursive;
+  }
+hr {
+
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+border-color: grey;
+width: 7%
+
+}
+h1{
+  color: #66BFBF;
+
+}
+h3
+{
+    color: #66BFBF;
+}
+.top{
+  margin-left: 0;
+}
+.Myimage{
+  position: absolute;
+top: 80px;
+left: 45%;
+}
+.hiImage{
+  margin-left: 0;
+  position: fixed;
+  left: 0;
+  top:20px;
+}
+#hi{
+    color: #66BFBF;
+    font-family: 'Alice', serif;
+  display: inline-block;
+  position: absolute;
+  top: 30px;
+  left: 70px;
+}
+.name{
+  position: absolute;
+  top: 190px;
+  left: 20%;
+}
+.land{
+    top:200px;
+}
+.padding{
+  padding: 50px;
+}
+.padding1{
+  padding: 30px;
+}
+.skills{
+  position: relative;
+left: 40%;
+}
